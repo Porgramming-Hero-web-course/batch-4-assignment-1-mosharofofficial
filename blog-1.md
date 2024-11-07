@@ -6,7 +6,7 @@ Union types allow variables to be one of multiple types. A union Type is written
 
 ### const v = type1 | type2
 
-Meaning the variable v has to a type1 or type2.
+Meaning the variable v has to be type1 or type2.
 
 ### Intersection Types:
 
