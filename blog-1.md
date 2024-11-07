@@ -14,7 +14,7 @@ Intersection types allow variables to have the properties of multiple types. An 
 
 ### const v = type1 & type2
 
-Meaning the variable v has to a have all the attributes of both type1 and type2.
+Meaning the variable v has to have all the attributes of both type1 and type2.
 
 
 ### Significance of Union and Intersection types 
